@@ -4,4 +4,5 @@ Final Project - Using hashtag and word graph networks made from tweets to analyz
 Assignment7 - Influence model analysis \
 Assignment6 - Graph network analysis and measures \
 Assingment5 - graph spectral clustering and similarity measures \
-Assignment4 - clustering and similarity measures
+Assignment4 - clustering and similarity measures \
+Assignment3 - centrality measures, hub and authority indexes
